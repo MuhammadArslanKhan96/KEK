@@ -1,5 +1,5 @@
-import Tokens from "@/components/uniswap/first";
-import Chart from "@/components/uniswap/second";
+import Tokens from "@/components/tokens";
+import Chart from "@/components/chart";
 
 export default function HomePage() {
   return (
